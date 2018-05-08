@@ -5,3 +5,7 @@
 .fade:hover {
   opacity: 1;
 }
+
+.online {
+  color: white;
+}
